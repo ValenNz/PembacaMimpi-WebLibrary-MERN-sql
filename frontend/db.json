@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "isbn": 12345,
+      "judul": "Bulan",
+      "penulis": "Tere Liye",
+      "penerbit": "CV Harapan Kita",
+      "harga": 90000,
+      "cover": "https://drive.google.com/uc?id=1ui-jyKgu3DqFyo7VKJu-FFXkaNQN3aSg"
+    },
+    {
+      "isbn": 12346,
+      "judul": "Anak Badai",
+      "penulis": "Tere Liye",
+      "penerbit": "CV Nusa Bangsa",
+      "harga": 80000,
+      "cover": "https://drive.google.com/uc?id=1rJDcCOmsd14NL6DG3Wps_kewZomGcLU-"
+    },
+    {
+      "isbn": 54321,
+      "judul": "Bumi",
+      "penulis": "Tere Liye",
+      "penerbit": "CV Nusa Bangsa",
+      "harga": 70000,
+      "cover": "https://drive.google.com/uc?id=1e-thvq7lkG1_gw0FqHzRoiAhfhdgpOUj"
+    }
+  ]
+}
